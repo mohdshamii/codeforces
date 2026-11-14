@@ -117,7 +117,7 @@ if __name__ == '__main__':
 ##  License
 
 This repository is maintained for educational and competitive programming training purposes. All problem rights and test cases belong to [Codeforces](https://codeforces.com).
-=======
+
 #  Codeforces Python DSA Master Roadmap (800 – 2200+)
 
 A curated collection of high-yield Codeforces benchmark problems, optimized Python/PyPy3 templates, and structured phase-by-phase roadmaps designed to take competitive programmers from beginner rating (800) all the way through Expert (1600+) and Grandmaster mastery (2200+).
